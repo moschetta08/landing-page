@@ -16,9 +16,9 @@ html {
 }
 
 .background-section-one{
-    background-image: url(../assets/bg.jpg);
+    background-image: url(../assets/bg_dg.jpg);
     background-attachment: scroll;
-    width: 1000px;
+    width: 10000px;
     size: 100%;
     background-size: cover;
     background-repeat: no-repeat;
